@@ -3,13 +3,13 @@ My solution for kaggle MNIST contest.
 
 ## Install
 
- I use [Anaconda](https://www.anaconda.com/).
+ I use the [Anaconda](https://www.anaconda.com/).
  
- Following packages can be installed for using NVidia GPU.
+ The following packages can be installed using the NVidia GPU.
 ```
 $ conda install cudatoolkit cudnn
 ```
- Install puthon packages:
+ Install python packages:
 
  For GPU:
 ```
