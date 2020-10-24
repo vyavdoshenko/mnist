@@ -25,7 +25,7 @@ $ pip install --use-feature=2020-resolver keras tensorflow
 ```
 $ pip install --use-feature=2020-resolver kaggle
 ```
- Don't forget to setup username and access token.
+ Don't forget to setup the username and access token.
 
  Get data:
 ```
