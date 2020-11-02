@@ -1,6 +1,12 @@
 # mnist
 My solution for kaggle [Digit Recognizer](https://www.kaggle.com/c/digit-recognizer/) Prediction Competition.
 
+## Inspirations
+- [Generative Deep Learning by David Foster](https://www.oreilly.com/library/view/generative-deep-learning/9781492041931/)
+- [GitHub repository with examples for this book](https://github.com/davidADSP/GDL_code/)
+- [This python notebook](https://www.kaggle.com/poonaml/deep-neural-network-keras-way/execution)
+- [Image Data Generator & Data Augmentation](https://www.pyimagesearch.com/2019/07/08/keras-imagedatagenerator-and-data-augmentation/)
+
 ## Install
 
  I use the [Anaconda](https://www.anaconda.com/).
